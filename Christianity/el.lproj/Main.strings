@@ -1,0 +1,102 @@
+
+/* Class = "UITextField"; placeholder = "Search"; ObjectID = "1nL-uj-1Zs"; */
+"1nL-uj-1Zs.placeholder" = "Αναζήτηση";
+
+/* Class = "UIButton"; normalTitle = "SYNC NOW"; ObjectID = "2W9-Ja-WAL"; */
+"2W9-Ja-WAL.normalTitle" = "Συγχρονισμός";
+
+/* Class = "UILabel"; text = "About Us"; ObjectID = "2dl-eb-yn8"; */
+"2dl-eb-yn8.text" = "Σχετικά με εμάς";
+
+/* Class = "UILabel"; text = "simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"; ObjectID = "5kn-ot-aoR"; */
+"5kn-ot-aoR.text" = "Χριστιανισμός 104.3 FM. Το Χριστιανικό ραδιόφωνο της Αθήνας στην υπηρεσία του Ευαγγελίου.";
+
+/* Class = "UITextField"; placeholder = "Email ID"; ObjectID = "7F7-sY-1IO"; */
+"7F7-sY-1IO.placeholder" = "Email ID";
+
+/* Class = "UILabel"; text = "Schedule :  16 June"; ObjectID = "DtA-F4-J6H"; */
+"DtA-F4-J6H.text" = "Πρόγραμμα:  16 June";
+
+/* Class = "UILabel"; text = "Select Language"; ObjectID = "EAZ-HJ-qxD"; */
+"EAZ-HJ-qxD.text" = "Επιλέξτε γλώσσα";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "FOf-gA-FYb"; */
+"FOf-gA-FYb.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "hirak14995@gmail.com"; ObjectID = "KYU-IQ-Wsd"; */
+"KYU-IQ-Wsd.text" = "hirak14995@gmail.com";
+
+/* Class = "UITextField"; placeholder = "Email ID"; ObjectID = "LN2-x1-27M"; */
+"LN2-x1-27M.placeholder" = "Email ID";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Mk3-Aq-GPd"; */
+"Mk3-Aq-GPd.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "LOGIN"; ObjectID = "OJt-ob-ivo"; */
+"OJt-ob-ivo.normalTitle" = "Συνδεθείτε";
+
+/* Class = "UILabel"; text = "Home"; ObjectID = "TJB-LI-73n"; */
+"TJB-LI-73n.text" = "Αρχική";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "U6r-le-f4h"; */
+"U6r-le-f4h.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Schedule"; ObjectID = "XVg-m4-Udm"; */
+"XVg-m4-Udm.text" = "Πρόγραμμα";
+
+/* Class = "UIButton"; normalTitle = "REGISTER"; ObjectID = "YOc-f6-LrS"; */
+"YOc-f6-LrS.normalTitle" = "Εγγραφείτε";
+
+/* Class = "UIButton"; normalTitle = "Greek"; ObjectID = "ZO8-AQ-NcV"; */
+"ZO8-AQ-NcV.normalTitle" = "Ελληνικά";
+
+/* Class = "UILabel"; text = "How great thou...."; ObjectID = "bg5-zg-Alu"; */
+"bg5-zg-Alu.text" = "How great thou....";
+
+/* Class = "UIButton"; normalTitle = "English"; ObjectID = "eTf-a7-pFT"; */
+"eTf-a7-pFT.normalTitle" = "Αγγλικά";
+
+/* Class = "UILabel"; text = "Version: 1.1.0"; ObjectID = "g6R-Sa-zcF"; */
+"g6R-Sa-zcF.text" = "Version: 1.1.0";
+
+/* Class = "UILabel"; text = "Recent Tracks"; ObjectID = "gBU-5P-U3D"; */
+"gBU-5P-U3D.text" = "Έπαιξαν πρόσφατα";
+
+/* Class = "UIButton"; normalTitle = "ALREADY HAVE AN ACCOUNT?"; ObjectID = "gLd-Bj-la4"; */
+"gLd-Bj-la4.normalTitle" = "Έχετε ήδη λογαριασμο;";
+
+/* Class = "UILabel"; text = "Call Us"; ObjectID = "hJu-5a-8Us"; */
+"hJu-5a-8Us.text" = "Τηλέφωνο";
+
+/* Class = "UITextField"; placeholder = "Full Name"; ObjectID = "iX2-1y-Eak"; */
+"iX2-1y-Eak.placeholder" = "Ονοματεπώνυμο";
+
+/* Class = "UILabel"; text = "LIVE RADIO"; ObjectID = "j4x-44-Vac"; */
+"j4x-44-Vac.text" = "Ακούστε ζωντανά";
+
+/* Class = "UILabel"; text = "Category : "; ObjectID = "otb-fR-6TZ"; */
+"otb-fR-6TZ.text" = "Κατηγορίες : ";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "tcf-yG-fnV"; */
+"tcf-yG-fnV.text" = "Ρυθμίσεις";
+
+/* Class = "UILabel"; text = "Notifications"; ObjectID = "vJN-ZA-AUt"; */
+"vJN-ZA-AUt.text" = "Ενημερώσεις";
+
+/* Class = "UILabel"; text = "Hirak Chhatbar"; ObjectID = "wC6-Bz-AZh"; */
+"wC6-Bz-AZh.text" = "Hirak Chhatbar";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "xFV-FC-xRK"; */
+"xFV-FC-xRK.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "The word POETRY originates from a Greek word meaning TO MAKE. \\nA poet is thus a maker and the poem something that is made or created. No single \\ndefinition of poetry is possible but some characteristic features of poetry may be mentioned. Poetry has a \\nmusical quality with rhythm, pitch, metre and it may use figures of speech such as simile and metaphor. While quite a few english poems in this selection are in traditional forms, the unit  a \\"; ObjectID = "yTI-Tv-Dmy"; */
+"yTI-Tv-Dmy.text" = "The word POETRY originates from a Greek word meaning TO MAKE. \\nA poet is thus a maker and the poem something that is made or created. No single \\ndefinition of poetry is possible but some characteristic features of poetry may be mentioned. Poetry has a \\nmusical quality with rhythm, pitch, metre and it may use figures of speech such as simile and metaphor. While quite a few english poems in this selection are in traditional forms, the unit  a \\";
+
+/* Class = "UIButton"; normalTitle = "CREATE AN ACCOUNT"; ObjectID = "yfH-y0-d5o"; */
+"yfH-y0-d5o.normalTitle" = "Δημιουργία λογαριασμού";
+
+/* Class = "UILabel"; text = "Christianity"; ObjectID = "ys1-mc-V9t"; */
+"ys1-mc-V9t.text" = "Christianity";
+
+/* Class = "UILabel"; text = "LIVE RADIO"; ObjectID = "ys4-BD-wzF"; */
+"ys4-BD-wzF.text" = "Ακούστε ζωντανά";

@@ -1,0 +1,108 @@
+PODS:
+  - Alamofire (4.8.2)
+  - AlamofireImage (3.5.1):
+    - Alamofire (~> 4.8)
+  - AlamofireJsonToObjects (2.4.1):
+    - Alamofire
+    - EVReflection
+  - DropDown (2.3.13)
+  - EVReflection (5.10.0):
+    - EVReflection/Core (= 5.10.0)
+  - EVReflection/Core (5.10.0)
+  - Firebase/CoreOnly (5.19.0):
+    - FirebaseCore (= 5.4.0)
+  - Firebase/Messaging (5.19.0):
+    - Firebase/CoreOnly
+    - FirebaseMessaging (= 3.4.0)
+  - FirebaseAnalyticsInterop (1.2.0)
+  - FirebaseCore (5.4.0):
+    - GoogleUtilities/Environment (~> 5.2)
+    - GoogleUtilities/Logger (~> 5.2)
+  - FirebaseInstanceID (3.8.0):
+    - FirebaseCore (~> 5.2)
+    - GoogleUtilities/Environment (~> 5.2)
+    - GoogleUtilities/UserDefaults (~> 5.2)
+  - FirebaseMessaging (3.4.0):
+    - FirebaseAnalyticsInterop (~> 1.1)
+    - FirebaseCore (~> 5.2)
+    - FirebaseInstanceID (~> 3.6)
+    - GoogleUtilities/Environment (~> 5.3)
+    - GoogleUtilities/Reachability (~> 5.3)
+    - GoogleUtilities/UserDefaults (~> 5.3)
+    - Protobuf (~> 3.1)
+  - GoogleUtilities/Environment (5.5.0)
+  - GoogleUtilities/Logger (5.5.0):
+    - GoogleUtilities/Environment
+  - GoogleUtilities/Reachability (5.5.0):
+    - GoogleUtilities/Logger
+  - GoogleUtilities/UserDefaults (5.5.0):
+    - GoogleUtilities/Logger
+  - HMSegmentedControl (1.5.5)
+  - IQKeyboardManagerSwift (6.2.0)
+  - MFSideMenu (0.5.5)
+  - NVActivityIndicatorView (4.6.1):
+    - NVActivityIndicatorView/Presenter (= 4.6.1)
+  - NVActivityIndicatorView/Presenter (4.6.1)
+  - Protobuf (3.7.0)
+  - SDWebImage (4.4.6):
+    - SDWebImage/Core (= 4.4.6)
+  - SDWebImage/Core (4.4.6)
+  - Toaster (2.1.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireImage
+  - AlamofireJsonToObjects
+  - DropDown
+  - Firebase/Messaging
+  - HMSegmentedControl
+  - IQKeyboardManagerSwift
+  - MFSideMenu
+  - NVActivityIndicatorView
+  - SDWebImage
+  - Toaster
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AlamofireImage
+    - AlamofireJsonToObjects
+    - DropDown
+    - EVReflection
+    - Firebase
+    - FirebaseAnalyticsInterop
+    - FirebaseCore
+    - FirebaseInstanceID
+    - FirebaseMessaging
+    - GoogleUtilities
+    - HMSegmentedControl
+    - IQKeyboardManagerSwift
+    - MFSideMenu
+    - NVActivityIndicatorView
+    - Protobuf
+    - SDWebImage
+    - Toaster
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  AlamofireImage: 1ea645cb3328d612ba7f3e3d75a947a17eb427c2
+  AlamofireJsonToObjects: 2f652417f69ca86f229b704cdd00370bb892af45
+  DropDown: 8a2116376c1981888557f72ec2ffc9a5e0e456ec
+  EVReflection: 1abc1a81927ab0d30170238cf9b79bff489e9728
+  Firebase: c60d49e9c2630875a96207d15e2affb8364996d1
+  FirebaseAnalyticsInterop: efbe45c8385ec626e29f9525e5ebd38520dfb6c1
+  FirebaseCore: 22a79a961c3951ef2f77b67bfbc99e454247b319
+  FirebaseInstanceID: cf488df2f4b79782f0e430b04a0e17c0aa7979b2
+  FirebaseMessaging: 2d53d08d752fbe63ce0820428d70be5ab87c11fb
+  GoogleUtilities: 6481e6318c5fcabaaa8513ef8120f329055d7c10
+  HMSegmentedControl: f514c6dad47aa3065e0ed2e8046b73efc71221b9
+  IQKeyboardManagerSwift: b07ccf9d8cafe993dcd6cb794eb4ba34611a0c4e
+  MFSideMenu: 268122e6894f2747fc3a2b48578100b232506c60
+  NVActivityIndicatorView: 4ca19fccc84595a78957336a086d00a49be6ce61
+  Protobuf: 7a877b7f3e5964e3fce995e2eb323dbc6831bb5a
+  SDWebImage: 3f3f0c02f09798048c47a5ed0a13f17b063572d8
+  Toaster: a6c9532de1ded8105e77376f7dffeb2e12b46dbb
+
+PODFILE CHECKSUM: ef6ae140e2bbf6f3e35c89a292b8c99bc62c3765
+
+COCOAPODS: 1.6.0

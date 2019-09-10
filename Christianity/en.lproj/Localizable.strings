@@ -1,0 +1,40 @@
+
+"enter_email" = "Please enter email";
+"invalid_email" = "Please enter valid email";
+"enter_password" = "Please enter password";
+"enter_name" = "Please enter name";
+
+"category_lbl" = "Category : ";
+"schedule_lbl" = "Schedule : ";
+"last_sync_lbl" = "Last synced on ";
+
+"language_change_alert_title" = "To change language, you have to relaunch app. Do you want to continue?";
+"language_change_alert_yes" = "Yes please";
+"language_change_alert_cancel" = "No thanks";
+
+"setting_question1" = "Receive Notifications?";
+"setting_question2" = "Play in background?";
+"setting_question3" = "Select Language";
+
+"setting_ans1" = "Turn this on receive important alerts and notifications about schedules and new hymn updates";
+"setting_ans2" = "Turn this on to continue playing hymns in background";
+
+
+"home" = "Home";
+"weekly_schedule" = "Weekly Schedule";
+"notifications" = "Notifications";
+"settings" = "Settings";
+"rate_us" = "Rate Us";
+"about_us" = "About Us";
+"log_out" = "Log Out";
+
+"radio" = "RADIO";
+"hymns" = "HYMNS";
+"schedule" = "SCHEDULE";
+
+
+"call_us" = "Call Us";
+"mail_us" = "Mail Us";
+"visit_our_website" = "Visit our Websites";
+"facebook" = "Facebook";
+"youtube" = "YouTube";

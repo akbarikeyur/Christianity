@@ -1,0 +1,42 @@
+
+"enter_email" = "Παρακαλώ εισάγετε email";
+"invalid_email" = "Εισαγάγετε έγκυρο email";
+"enter_password" = "Παρακαλούμε εισάγετε τον κωδικό πρόσβασης";
+"enter_name" = "Εισαγάγετε το όνομα";
+
+"category_lbl" = "Κατηγορίες : ";
+"schedule_lbl" = "Πρόγραμμα : ";
+"last_sync_lbl" = "Last synced on ";
+
+"language_change_alert_title" = "Για να αλλάξετε γλώσσα, πρέπει να ξαναρχίσετε την εφαρμογή. Θέλετε να συνεχίσετε;";
+"language_change_alert_yes" = "ναι παρακαλώ";
+"language_change_alert_cancel" = "Οχι ευχαριστώ";
+
+
+"setting_question1" = "Θέλετε να λαμβάνετε ενημερώσεις;";
+"setting_question2" = "Συνέχεια στο background?";
+"setting_question3" = "Επιλέξτε γλώσσα";
+
+"setting_ans1" = "Ενεργοποιήστε το ώστε να λαμβάνετε νέα και ενημερώσεις";
+"setting_ans2" = "Ενεργοποιήστε το ώστε να συνεχίσετε να ακούτε το ραδιόφωνο ακόμα και αν κάνετε κάποια άλλη εργασία";
+
+
+"home" = "Αρχική";
+"weekly_schedule" = "Εβδομαδιαίο πρόγραμμα";
+"notifications" = "Ενημερώσεις";
+"settings" = "Ρυθμίσεις";
+"rate_us" = "Rate Us";
+"about_us" = "Σχετικά με εμάς";
+"log_out" = "Αποσύνδεση";
+
+
+"radio" = "Ραδιόφωνο";
+"hymns" = "Υμνολόγιο";
+"schedule" = "Πρόγραμμα";
+
+
+"call_us" = "Τηλέφωνο";
+"mail_us" = "Στείλτε μας mail";
+"visit_our_website" = "Επισκεφθείτε την ιστοσελίδα μας";
+"facebook" = "Facebook";
+"youtube" = "YouTube";
